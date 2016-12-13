@@ -1,0 +1,33 @@
+{
+  "name" : "Scroll To Anything",
+  "version" : "0.1",
+  "description" : "Simple "Scroll To" jQuery Oracle APEX Plugin",
+  "keywords" : ["jQuery", "ScrollTo", "JAFR"],
+  "homepage" : "https://github.com/farzadso/Scroll_To_Anything_Oracle_Apex_Plugin",
+  "bugs" : {
+    "url" : "https://github.com/farzadso/Scroll_To_Anything_Oracle_Apex_Plugin",
+    "email" : "farzad.au@gmail.com"
+  },
+  "license" : "MIT",
+  "author" : {
+    "name" : "Farzad Soltani",
+    "email" : "farzad.au@gmail.com",
+    "url" : "http://www.jafr.co"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/farzadso/Scroll_To_Anything_Oracle_Apex_Plugin.git"
+  },
+ "oracle" : {
+    "versions" : ["11.2.0.1", "12.1.0.1"],
+    "apex" : {
+      "versions" : ["4.2", "5.0.4", "5.1"],
+      "plugin" : {
+        "internalName" : "COM.JAFR.SCROLL.TO.ANYTHING",
+        "type" : "dynamic action",
+        "demo" : "https://apex.oracle.com/pls/apex/f?p=9468:3",
+        "previewImage" : "https://raw.githubusercontent.com/farzadso/Scroll_To_Anything_Oracle_Apex_Plugin/master/animation.gif"
+      }
+    }
+  }
+}
