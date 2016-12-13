@@ -1,7 +1,7 @@
 {
   "name" : "Scroll To Anything",
   "version" : "0.1",
-  "description" : "Simple "Scroll To" jQuery Oracle APEX Plugin",
+  "description" : "Simple Scroll To jQuery Oracle APEX Plugin",
   "keywords" : ["jQuery", "ScrollTo", "JAFR"],
   "homepage" : "https://github.com/farzadso/Scroll_To_Anything_Oracle_Apex_Plugin",
   "bugs" : {
