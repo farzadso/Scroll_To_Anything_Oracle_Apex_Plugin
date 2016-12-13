@@ -15,13 +15,18 @@ file into your application.
 
 APEX Version
 ```html
-This setting has two options. "APEX 5.0+" and "APEX4". Select the first if you are using Universal Theme. Use the latter if you are using any of the 26 Legacy Themes.
+This setting has two options. "APEX 5.0+" and "APEX4". 
+Select the first if you are using Universal Theme. 
+Use the latter if you are using any of the 26 Legacy Themes.
 ```
 
 
 Animation Speed
 ```html
-Based on milliseconds you can set the animation speed. The lower the speed, the faster the scrolling action is done. It is defaulted to 1500ms. Iterations of 500 would be favourable in order to decrese the overall speed of the animation.
+Based on milliseconds you can set the animation speed. 
+The lower the speed, the faster the scrolling action is done. 
+It is defaulted to 1500ms.
+Iterations of 500 would be favourable in order to decrese the overall speed of the animation.
 ```
 
 ## Author
